@@ -11,7 +11,7 @@ Model Training
 Evaluation
 Results
 Future Work
-Contributing
+Contributings
 License
 Dataset
 The dataset used in this project is sourced from [source link], and it includes information about different cars, their features, and corresponding prices.
